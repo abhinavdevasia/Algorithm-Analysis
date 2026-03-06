@@ -1,0 +1,7 @@
+Topological Sort Results
+
+Method A - Kahn's Algorithm (BFS-based):
+0 -> 4 -> 5 -> 1 -> 2 -> 3
+
+Method B - DFS-based Topological Sort:
+4 -> 5 -> 0 -> 1 -> 2 -> 3
